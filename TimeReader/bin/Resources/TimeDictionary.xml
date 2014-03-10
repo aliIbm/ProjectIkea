@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeDictionary>
+<TimeValue>
+	<IntValue>0</IntValue>
+	<Translation></Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>1</IntValue>
+	<Translation>one</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>2</IntValue>
+	<Translation>two</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>3</IntValue>
+	<Translation>three</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>4</IntValue>
+	<Translation>four</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>5</IntValue>
+	<Translation>five</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>6</IntValue>
+	<Translation>six</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>7</IntValue>
+	<Translation>seven</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>8</IntValue>
+	<Translation>eight</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>9</IntValue>
+	<Translation>nine</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>10</IntValue>
+	<Translation>ten</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>11</IntValue>
+	<Translation>eleven</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>12</IntValue>
+	<Translation>twelve</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>13</IntValue>
+	<Translation>thirteen</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>14</IntValue>
+	<Translation>fourteen</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>15</IntValue>
+	<Translation>fifteen</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>16</IntValue>
+	<Translation>sixteen</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>17</IntValue>
+	<Translation>seventeen</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>18</IntValue>
+	<Translation>eighteen</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>19</IntValue>
+	<Translation>nineteen</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>20</IntValue>
+	<Translation>twenty</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>21</IntValue>
+	<Translation>twenty-one</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>22</IntValue>
+	<Translation>twenty-two</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>23</IntValue>
+	<Translation>twenty-three</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>24</IntValue>
+	<Translation>twenty-four</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>25</IntValue>
+	<Translation>twenty-five</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>26</IntValue>
+	<Translation>twenty-six</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>27</IntValue>
+	<Translation>twenty-seven</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>28</IntValue>
+	<Translation>twenty-eight</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>29</IntValue>
+	<Translation>twenty-nine</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>30</IntValue>
+	<Translation>thirty</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>31</IntValue>
+	<Translation>thirty-one</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>32</IntValue>
+	<Translation>thirty-two</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>33</IntValue>
+	<Translation>thirty-three</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>34</IntValue>
+	<Translation>thirty-four</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>35</IntValue>
+	<Translation>thirty-five</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>36</IntValue>
+	<Translation>thirty-six</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>37</IntValue>
+	<Translation>thirty-seven</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>38</IntValue>
+	<Translation>thirty-eight</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>39</IntValue>
+	<Translation>thirty-nine</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>40</IntValue>
+	<Translation>forty</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>41</IntValue>
+	<Translation>forty-one</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>42</IntValue>
+	<Translation>forty-two</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>43</IntValue>
+	<Translation>forty-three</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>44</IntValue>
+	<Translation>forty-four</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>45</IntValue>
+	<Translation>forty-five</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>46</IntValue>
+	<Translation>forty-six</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>47</IntValue>
+	<Translation>forty-seven</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>48</IntValue>
+	<Translation>forty-eight</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>49</IntValue>
+	<Translation>forty-nine</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>50</IntValue>
+	<Translation>fifty</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>51</IntValue>
+	<Translation>fifty-one</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>52</IntValue>
+	<Translation>fifty-two</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>53</IntValue>
+	<Translation>fifty-three</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>54</IntValue>
+	<Translation>fifty-four</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>55</IntValue>
+	<Translation>fifty-five</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>56</IntValue>
+	<Translation>fifty-six</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>57</IntValue>
+	<Translation>fifty-seven</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>58</IntValue>
+	<Translation>fifty-eight</Translation>
+</TimeValue>
+<TimeValue>
+	<IntValue>59</IntValue>
+	<Translation>fifty-nine</Translation>
+</TimeValue>
+</TimeDictionary>
